@@ -1,1 +1,1 @@
-Evan and Amy's Hackawhattt
+Chrome extension account and password management tool w/ hotkey support
